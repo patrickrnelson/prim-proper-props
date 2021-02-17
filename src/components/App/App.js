@@ -56,6 +56,7 @@ function App() {
   }
 
   console.log(newGuestMeal)
+  
   return (
     <div className="App">
       <Header />
